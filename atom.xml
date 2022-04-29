@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://localhost:4000</id>
     <title>正经人王同学</title>
-    <updated>2022-04-29T13:01:56.133Z</updated>
+    <updated>2022-04-29T13:19:48.512Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://localhost:4000"/>
     <link rel="self" href="http://localhost:4000/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>http://localhost:4000/images/avatar.png</logo>
     <icon>http://localhost:4000/favicon.ico</icon>
     <rights>All rights reserved 2022, 正经人王同学</rights>
+    <entry>
+        <title type="html"><![CDATA[我的知乎]]></title>
+        <id>http://localhost:4000/post/wo-de-zhi-hu/</id>
+        <link href="http://localhost:4000/post/wo-de-zhi-hu/">
+        </link>
+        <updated>2022-04-29T13:15:26.000Z</updated>
+        <content type="html"><![CDATA[<p>https://www.zhihu.com/people/30-95-6-63🚩<br>
+<img src="http://localhost:4000/post-images/1651238256618.jpeg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[测试]]></title>
         <id>http://localhost:4000/post/ce-shi/</id>
